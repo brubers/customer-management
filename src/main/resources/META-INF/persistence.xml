@@ -20,10 +20,7 @@
                       value="root"/>
 
             <property name="jakarta.persistence.jdbc.password"
-                      value="SENHAAQUI"/>
-
-            <property name="hibernate.dialect"
-                      value="org.hibernate.dialect.MySQLDialect"/>
+                      value="admin"/>
 
             <property name="hibernate.hbm2ddl.auto"
                       value="update"/>
